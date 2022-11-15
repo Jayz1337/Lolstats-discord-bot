@@ -2,9 +2,7 @@
 
 -- A simple discord bot made in discordpy --
 
-Requirments:
-  pip install discord.py /
-  pip install riotwatcher
+Requirements: pip install -r requirements.txt
 
 Riot developer portal: https://developer.riotgames.com
   
